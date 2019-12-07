@@ -84,7 +84,7 @@ class LINE extends LineAPI {
 => !kepo\n\
 => !key\n\
 => !kickban *ADMIN*\n\
-=> /musibat *kickall*\n\
+=> /musibat *Kicker command*\n\
 => !kickme\n\
 => !msg\n\
 => !mute *ADMIN*\n\
